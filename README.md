@@ -1,1 +1,1 @@
-<img src="/img/parasite.jpg" alt="">
+<img src="public/img/actor2.jpg" alt="">
