@@ -1,2 +1,2 @@
-<<<<<<< HEAD
-<img src="/img/parasite.jpg" alt="">
+
+<img src="public/img/design.jpg" alt="">
